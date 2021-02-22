@@ -1,0 +1,20 @@
+﻿{
+    "bindingCulture":
+    {
+        "language" :"en-us"
+    },
+  "language": {
+    "feature": "en-us"
+  },
+ "plugins": [],
+  "stepAssemblies": [
+    {
+      "assembly": "AngloAmerican.SDET.UITest.Common"
+    }
+  ],
+  "buildOptions": {
+    "copyToOutput": {
+      "include": ["xunit.runner.json"]
+    }
+  }
+ }
